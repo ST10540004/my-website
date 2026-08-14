@@ -11,12 +11,12 @@
 * Research and Content Gathering
 -----
 ## The Features 
-##Create the Html Structure
+## Create the Html Structure
 
 * Develop the basic HTML Structure
-*The header
-*Navigation
-*Maincontent
-*Footer
+* The header
+* Navigation
+* Maincontent
+* Footer
 
 ----
