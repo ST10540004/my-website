@@ -440,9 +440,7 @@ footer p {
 }
 
 /* ========================================================
-   14. RESPONSIVE DESIGN — BREAKPOINTS
-   Desktop-first: base styles above are desktop.
-   Tablet: 1024px and below. Mobile: 600px and below.
+   14. RESPONSIVE DESIGN 
    ======================================================== */
 
 /* ---- TABLET (≤ 1024px) ---- */
@@ -509,4 +507,14 @@ footer p {
     form {
         max-width: 100%;
     }
+    .social-links a {
+    color: var(--color-white);
+    font-weight: 600;
+    transition: color 0.2s ease;
+}
+
+.social-links a:hover,
+.social-links a:focus {
+    color: var(--color-accent);
+}
 }
